@@ -6,7 +6,7 @@ A web-based Hospital Management System with a recovery backup feature that can r
 * Students: Abdullah Hussam, Cenaa Ghani
 * Supervisor: Dr.Ahemd Saad 
 * Graduation Year: 2020
-* Dussction Board: TBD
+* Discussion Board: TBD
 * Presentation: TBD
 * Blog Post: http://ahussam.me/make-encrypted-backup-with-multiple-subkeys-in-NodeJS/
 
@@ -30,7 +30,7 @@ A web-based Hospital Management System with a recovery backup feature that can r
         +---admin // Admin pages
         +---doctor // Doctor pages
         +---pharmacist // Pharmacist pages
-        \---receptionist // receptionist pages
+        \---receptionist // Receptionist pages
 ```
 
 ## Technologies :hammer_and_wrench:	
@@ -89,7 +89,7 @@ Then go to [http://127.0.0.1:3000](http://127.0.0.1:3000)
 
 ------
 
-#### Test Credentails :key:	
+#### Test Credentials :key:	
 
 | Role | Email | Password 
 | ------ | ------ | -------
@@ -117,7 +117,7 @@ Pharmacist|pharmacist@pharmacist.com|123456
 - [ ] Implement REST api functions. 
 - [ ] Implement XSS filtering before inserting to DB with Dompurify. 
 - [ ] Code frontend Ajax calls. 
-- [ ] Look for TODO in file to finish them. 
+- [ ] Look for TODO in files to finish them. 
 - [ ] Implement database other schema models and link them
 
 ------
